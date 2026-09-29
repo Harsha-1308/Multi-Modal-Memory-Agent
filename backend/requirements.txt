@@ -1,0 +1,9 @@
+hindsight-client
+groq
+python-dotenv
+pydantic
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+pytest
